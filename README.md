@@ -8,7 +8,7 @@ Minishell is a 42 school team project to create a basic shell program in C. It i
 
 ## Status
 
-Validated 11/11/2022. Grade: 99%.
+Validated 06/10/2024. Grade: 101%.
 
 ## Usage
 
